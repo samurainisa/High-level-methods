@@ -1,0 +1,11 @@
+C:\Users\ads\source\repos\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.exe.config
+C:\Users\ads\source\repos\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.exe
+C:\Users\ads\source\repos\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.pdb
+C:\Users\ads\source\repos\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.csproj.AssemblyReference.cache
+C:\Users\ads\source\repos\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\ads\source\repos\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.Form1.resources
+C:\Users\ads\source\repos\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.Properties.Resources.resources
+C:\Users\ads\source\repos\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.csproj.GenerateResource.cache
+C:\Users\ads\source\repos\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.csproj.CoreCompileInputs.cache
+C:\Users\ads\source\repos\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.exe
+C:\Users\ads\source\repos\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.pdb
